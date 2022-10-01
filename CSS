@@ -1,0 +1,14 @@
+head .title {
+    font-family: sf pro display;
+    font-color: gradient #ff0048, #ff0011;
+    font-size: 80px;
+}
+section main .button
+{
+    background-color: solid #ff0048;
+    font-color: solid #960028;
+    font-size: 45px;
+    width: 67px;
+    height: 35px;
+    border-radius: 87%;
+}
